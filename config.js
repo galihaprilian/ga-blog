@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://galih.netlify.com",
-  title: "Galih Aprilian",
+  title: "My Diary",
   tagline: "Write code, sharing, solve problems, and help peoples.",
   copyright: "© 2019 galih, All rights reserved",
   author: {
