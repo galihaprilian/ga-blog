@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-developer-diary",
+  "name": "galih-developer-diary",
   "private": true,
-  "description": "A Gatsby blog template designed for web developers. Blazing fast, it includes beautful web developer topic tags and social-media links",
+  "description": "Galih's blog",
   "version": "0.1.0",
-  "author": "willjw3 <https://github.com/willjw3>",
+  "author": "galih <https://github.com/galihaprilian>",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "bootstrap": "^4.3.1",
@@ -48,9 +48,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/galihaprilian/galih-blog"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/galihaprilian/galih-blog/issues"
   }
 }

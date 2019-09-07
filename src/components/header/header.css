@@ -22,7 +22,7 @@
 
 .bottom-bar {
   width: 100%;
-  background: black;
+  background: rgb(66, 69, 248);
   display: none;
   flex-direction: row;
   justify-content: space-around;
