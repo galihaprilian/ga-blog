@@ -2,7 +2,7 @@
 title: 'Release Management'
 tags: ["git", "nodejs"]
 published: true
-date: '2019-09-06'
+date: '2019-09-07'
 ---
 
 # Pendahuluan
