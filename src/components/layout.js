@@ -51,7 +51,7 @@ const Layout = ({ children }) => {
               <p className="d-inline">© {new Date().getFullYear()} <a className="text-info" href="https://www.linkedin.com/in/galihaprilian/">galih</a>, All Rights Reserved.</p>
               <p className="mt-5 text-muted d-inline"><i> Built with
                             {` `}
-                <a className="text-info" href="https://www.gatsbyjs.org">Gatsby</a></i>
+                <a className="text-info" href="https://www.gatsbyjs.org/starters/willjw3/gatsby-starter-developer-diary/">Gatsby Starter Developer Diary</a></i>
               </p>
             </footer>
           </div>

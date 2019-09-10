@@ -1,11 +1,10 @@
 ---
 title: 'Release Management'
-tags: ["git", "nodejs"]
+tags: ["git", "npm"]
 published: true
 date: '2019-09-07'
 ---
 
-# Pendahuluan
 Sebelum memulai sebuah *project* atau repo dari sebuah produk, kita harus menyiapkan strategi *release management* dan juga *tools* yang akan kita gunakan.
 
 Berikut adalah tools dan standard yang akan kita gunakan:

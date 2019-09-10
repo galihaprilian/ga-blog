@@ -29,6 +29,13 @@ module.exports = {
       color: "lightgreen",
     },
     {
+      tag: "npm",
+      tech: "Npm",
+      name: "DiNpm",
+      size: 20,
+      color: "lightgreen",
+    },
+    {
       tag: "git",
       tech: "Git",
       name: "DiGitMerge",
@@ -102,6 +109,13 @@ module.exports = {
       tag: "vscode",
       tech: "VS Code",
       name: "DiVisualstudio",
+      size: 20,
+      color: "deepskyblue",
+    },
+    {
+      tag: "dotnet",
+      tech: "Dotnet",
+      name: "DiDotnet",
       size: 20,
       color: "deepskyblue",
     },

@@ -1,6 +1,6 @@
 ---
 title: 'Welcome To My Web Developer Blog'
-tags: ["react", "vscode", "git", "css", "python", "html", "mongodb",  "nodejs", "javascript", "npm"]
+tags: ["react", "vscode", "git", "css", "python", "html", "nodejs", "javascript", "dotnet"]
 published: true
 date: '2019-09-06'
 ---
