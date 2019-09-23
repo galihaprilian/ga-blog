@@ -95,3 +95,12 @@ Dan terakhir, kita tambahkan rule *commitlint* di `package.json`.
 }
 ```
 Sekarang jika kita melakukan commit tanpa menggunakan *conventional commit* maka akan ditolak oleh husky dan commitlint.
+
+### Tools untuk python
+Beberapa tools diatas tersedia juga alternatif-nya jika kita mengembangkan aplikasi dengan menggunakan bahasa python. Untuk `commitizen` kita bisa install dengan menggunakan perintah berikut ini.
+```bash
+$ pip install -U commitizen
+```
+Lebih lengkap silahkan lihat link berikut [ini](https://pypi.org/project/commitizen/).
+
+Untuk menggantikan husky ternyata ada tools lain yang bisa digunakan untuk multi-language, yaitu [pre-commit](https://pre-commit.com/).
